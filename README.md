@@ -39,3 +39,9 @@ The models were made specifically to work with [Fast-Neural-Style](https://githu
 ![](https://raw.githubusercontent.com/ProGamerGov/Torch-Models/master/flame_style_2/out_flame_4000.png)
 
 ---
+
+# Landscape Style:
+
+![](https://raw.githubusercontent.com/ProGamerGov/Torch-Models/master/landscape_style/landscape_style_5700.png)
+
+---
