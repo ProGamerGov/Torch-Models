@@ -44,6 +44,8 @@ The models were made specifically to work with [Fast-Neural-Style](https://githu
 
 ![](https://raw.githubusercontent.com/ProGamerGov/Torch-Models/master/landscape_style/landscape_style_5700.png)
 
+![](https://i.imgur.com/m4LJGse.gif)
+
 ---
 
 # Pink Style:
