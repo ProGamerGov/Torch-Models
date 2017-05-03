@@ -56,5 +56,5 @@ The models were made specifically to work with [Fast-Neural-Style](https://githu
 
 # Gold and Black Style: 
 
-![](https://raw.githubusercontent.com/ProGamerGov/Torch-Models/New-Models/Gold_Black/gold_black_4000_1536.png)
+![](https://raw.githubusercontent.com/ProGamerGov/Torch-Models/master/Gold_Black/gold_black_4000_5000_1536.png)
 ---
